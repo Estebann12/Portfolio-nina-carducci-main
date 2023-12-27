@@ -5,7 +5,7 @@
 Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à Bordeaux. Il a été amélioré pour assurer une meilleure accessibilité, des performances optimisées et un bon référencement SEO.
 
 <div align="center">
-<img src="https://github.com/estebann12/Portfolio-nina-carducci-main/blob/main/nina%20carducci%20preview.png">
+<img src="https://github.com/estebann12/Portfolio-nina-carducci/blob/main/nina%20carducci%20preview.png">
 </div>
 
 - Fonctionnalités
@@ -42,7 +42,7 @@ Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à 
 - Comment exécuter le projet localement
 
 1. Ouvrir un terminal : entrer `cd desktop`
-2. Clonez le repository : entrer git clone `git clone https://github.com/Estebann12/Portfolio-nina-carducci-main.git`
+2. Clonez le repository : entrer git clone `git clone https://github.com/Estebann12/Portfolio-nina-carducci.git`
 3. Ouvrez le fichier `index.html` dans votre navigateur pour visualiser le portfolio localement.
 
 - Comment voir le rendu hébergé
