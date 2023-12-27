@@ -1,5 +1,4 @@
 - Portfolio de Nina Carducci - Photographe
-  Projet 5 OpenClassrooms
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Nina%20Carducci-orange)
 
